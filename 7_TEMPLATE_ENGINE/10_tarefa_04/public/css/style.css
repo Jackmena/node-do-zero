@@ -1,0 +1,41 @@
+nav {
+  background-color: rgb(55, 144, 156);
+  border-style: double;
+  padding-left: 2em;
+}
+
+.page-body {
+  position: relative;
+  min-height: 100vh;
+}
+
+.content {
+  text-align: center;
+  padding-bottom: 2.5rem;
+  padding-left: 2em;
+}
+
+footer {
+  font-size: 18px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  padding-bottom: 1em;
+  color: white;
+  background-color: rgb(95, 58, 8);
+}
+
+body {
+  background-color: grey;
+  margin: 0;
+}
+
+a:visited {
+  color: goldenrod;
+}
+
+a:hover {
+  color: blue;
+}
